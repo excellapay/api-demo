@@ -1,0 +1,6 @@
+F:\UseThisPayTrace\bin\PayTrace.dll.config
+F:\UseThisPayTrace\bin\PayTrace.dll
+F:\UseThisPayTrace\bin\PayTrace.pdb
+F:\UseThisPayTrace\obj\Debug\PayTrace.csprojResolveAssemblyReference.cache
+F:\UseThisPayTrace\obj\Debug\PayTrace.dll
+F:\UseThisPayTrace\obj\Debug\PayTrace.pdb
