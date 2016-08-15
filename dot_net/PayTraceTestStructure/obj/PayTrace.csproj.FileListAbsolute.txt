@@ -1,0 +1,20 @@
+C:\Documents and Settings\ssyeda\My Documents\Visual Studio 2005\Projects\PayTrace\PayTrace\bin\PayTrace.dll
+C:\Documents and Settings\ssyeda\My Documents\Visual Studio 2005\Projects\PayTrace\PayTrace\bin\PayTrace.pdb
+C:\Documents and Settings\ssyeda\My Documents\Visual Studio 2005\Projects\PayTrace\PayTrace\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ssyeda\My Documents\Visual Studio 2005\Projects\PayTrace\PayTrace\obj\Debug\PayTrace.dll
+C:\Documents and Settings\ssyeda\My Documents\Visual Studio 2005\Projects\PayTrace\PayTrace\obj\Debug\PayTrace.pdb
+C:\Documents and Settings\Administrator\Desktop\C#\PayTrace\PayTrace\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\C#\PayTrace\PayTrace\obj\Debug\PayTrace.dll
+C:\Documents and Settings\Administrator\Desktop\C#\PayTrace\PayTrace\obj\Debug\PayTrace.pdb
+C:\Documents and Settings\Administrator\Desktop\C#\PayTrace\PayTrace\bin\PayTrace.dll
+C:\Documents and Settings\Administrator\Desktop\C#\PayTrace\PayTrace\bin\PayTrace.pdb
+C:\Documents and Settings\Administrator\Desktop\C#\bin\PayTrace.dll
+C:\Documents and Settings\Administrator\Desktop\C#\bin\PayTrace.pdb
+C:\Documents and Settings\Administrator\Desktop\C#\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\C#\obj\Debug\PayTrace.dll
+C:\Documents and Settings\Administrator\Desktop\C#\obj\Debug\PayTrace.pdb
+C:\Inetpub\wwwroot\PayTrace\PayTraceAPI\PayTrace_C#\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\PayTrace\PayTraceAPI\PayTrace_C#\obj\Debug\PayTrace.dll
+C:\Inetpub\wwwroot\PayTrace\PayTraceAPI\PayTrace_C#\bin\PayTrace.dll
+C:\Inetpub\wwwroot\PayTrace\PayTraceAPI\PayTrace_C#\bin\PayTrace.pdb
+C:\Inetpub\wwwroot\PayTrace\PayTraceAPI\PayTrace_C#\obj\Debug\PayTrace.pdb
